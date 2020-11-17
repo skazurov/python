@@ -1,5 +1,6 @@
 import math
 
+
 print('Введите желаемую точность е:')
 
 e = float(input())
